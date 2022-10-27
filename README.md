@@ -4,6 +4,7 @@
  
     Вкладка обсуждения открыта, буду рад вашим комментариям :)
 
+P.S. Необходимо добавить авто - тесты
 ## Оглавление
 1. [Функция numeralTransition](#Задание-1) - [решение](solves/numeralTransition.js)
 2. [Функция footballPlayersCount](#Задание-2) - [решение](solves/footballPlayersCount.js)
